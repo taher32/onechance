@@ -1,1 +1,1 @@
-// ONE CHANCE Script
+function copyWallet(){navigator.clipboard.writeText(document.getElementById("wallet").innerText);alert("Wallet copied");}
