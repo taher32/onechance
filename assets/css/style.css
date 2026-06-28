@@ -1,1 +1,4 @@
-/* ONE CHANCE Style */
+body{margin:0;font-family:Arial,sans-serif;background:#111;color:#fff}
+.hero{height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;background:#222}
+h1{font-size:4rem;color:#d4af37}a,button{background:#d4af37;color:#111;padding:12px 22px;border-radius:8px;text-decoration:none;border:none}
+section{max-width:900px;margin:auto;padding:60px 20px}.stats{display:flex;gap:20px;justify-content:center;flex-wrap:wrap}strong{display:block;font-size:2rem;color:#d4af37}code{display:block;padding:12px;background:#222;word-break:break-all}
